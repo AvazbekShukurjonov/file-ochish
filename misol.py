@@ -33,6 +33,4 @@
 
 
 
-# login=input('login kiriting  ')
-# parol=input('parolni kiriting  ')
-# with open('bye.txt', 'w') as abc:
+print('m')
